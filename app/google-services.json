@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "275245943435",
+    "firebase_url": "https://contacts-adbaa.firebaseio.com",
+    "project_id": "contacts-adbaa",
+    "storage_bucket": "contacts-adbaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275245943435:android:2e77c54481bf049d82628e",
+        "android_client_info": {
+          "package_name": "malathkar.akshay.contacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275245943435-rg0jno0a7dabp9qdlqlfuiq67lhdh69b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA4g4og3hHvWygLeilfPQnumAR-jeZKyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275245943435-rg0jno0a7dabp9qdlqlfuiq67lhdh69b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
